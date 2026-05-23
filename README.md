@@ -172,7 +172,6 @@ eventhub/
 └── requirements.txt
 ```
 
-```
 Screenshots
 # Successful reservation (201 Created)
 ![App Screenshot](screenshots/Create_Reservation_201.png)
@@ -184,4 +183,3 @@ Screenshots
 
 # Successful cancellation
 ![App Screenshot](screenshots/Cancel_Reservation_200.png)
-```
