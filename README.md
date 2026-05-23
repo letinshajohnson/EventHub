@@ -175,13 +175,13 @@ eventhub/
 ```
 Screenshots
 # Successful reservation (201 Created)
-![App Screenshot](./screenshots/Create_Reservation_201.png)
+![App Screenshot](screenshots/Create_Reservation_201.png)
 
 
 # Overbooking failure (400 Bad Request)
-![App Screenshot](./screenshots/Create_Reservation_400.png)
+![App Screenshot](screenshots/Create_Reservation_400.png)
 
 
 # Successful cancellation
-![App Screenshot](./screenshots/Cancel_Reservation_200.png)
+![App Screenshot](screenshots/Cancel_Reservation_200.png)
 ```
