@@ -1,0 +1,9 @@
+INFO 2026-05-23 19:00:30,935 events.middleware GET /events - 404 - 0.01s
+INFO 2026-05-23 19:00:31,017 events.middleware GET /events/ - 200 - 0.08s
+INFO 2026-05-23 19:13:57,161 events.middleware POST /reservations/ - 400 - 0.15s
+WARNING 2026-05-23 19:13:57,163 django.request Bad Request: /reservations/
+INFO 2026-05-23 19:14:13,285 events.middleware POST /reservations/ - 400 - 0.03s
+WARNING 2026-05-23 19:14:13,286 django.request Bad Request: /reservations/
+INFO 2026-05-23 19:14:42,355 events.middleware POST /reservations/ - 201 - 0.06s
+INFO 2026-05-23 19:14:48,531 events.middleware POST /reservations/ - 400 - 0.02s
+WARNING 2026-05-23 19:14:48,531 django.request Bad Request: /reservations/
