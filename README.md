@@ -172,7 +172,8 @@ eventhub/
 └── requirements.txt
 ```
 
-Screenshots
+## Screenshots
+
 # Successful reservation (201 Created)
 ![App Screenshot](screenshots/Create_Reservation_201.png)
 
